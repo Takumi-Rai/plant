@@ -47,8 +47,8 @@ disableImageOptimization = true
 
 [article]
   showDate = true
-  showViews = true
-  showLikes = true
+  showViews = false
+  showLikes = false
   showDateUpdated = false
   showAuthor = true
   showHero = true
@@ -73,7 +73,7 @@ disableImageOptimization = true
   showWordCount = true
   showSummary = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showComments = true
+  showComments = false
 
 [list]
   showHero = false
