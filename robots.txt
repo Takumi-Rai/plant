@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://torai55.github.io/blog/sitemap.xml
