@@ -3,7 +3,7 @@ title: "菲律賓豬籠草"
 date: 2023-08-15T01:35:24+08:00
 categories: ['豬籠草' , '食蟲植物']
 summary: '菲律賓豬籠草(Nepenthes philippinensis)的養成過程'
-draft: true
+draft: false
 isCJKLanguage: true
 ---
 
