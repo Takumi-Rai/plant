@@ -9,7 +9,7 @@ isCJKLanguage: true
 # 豬籠草種植清單
 
 這裡會記載現有的豬籠草清單，可以依照想要看的類別去點入。~~但如果有不是的混進去了也是蠻正常的事情喔。~~  
-最後更新日期：2024/03/31
+最後更新日期：2024/04/13
 
 ## 好種區
 
@@ -189,7 +189,7 @@ isCJKLanguage: true
 敘述：雖然也是穩定長葉子但結瓶率卻是最差的
 ***
 
-### 疑似豹斑交維奇 aff. burbidgeae×veitchii
+### 疑似豹斑交維奇 aff. burbidgeae × veitchii
 
 ***
 表現：長得跟豹斑交維奇豬籠草有那麼點相似...但肯定不太一樣  
@@ -247,7 +247,7 @@ isCJKLanguage: true
 ![葫辛毛](./images/venxsibxpel.jpg)
 ***
 
-### (維京×蘋果)×維奇 (viking  ×ampullaria) × veitchii
+### (維京×蘋果)×維奇 (viking × ampullaria) × veitchii
 
 ***
 表現：圓胖的淺紅色瓶子，帶有紅綠色花唇  
@@ -445,7 +445,7 @@ isCJKLanguage: true
 敘述：感覺有點糟糕，生長勢停滯了很久
 ***
 
-### 維京×蘋果(綠色個體) viking × ampullaria(green form)
+### 維京×蘋果(綠色個體) viking × ampullaria (green form)
 
 ***
 表現：據說是綠色的瓶子？  
@@ -472,7 +472,7 @@ isCJKLanguage: true
 
 ## 新手不要摸
 
-### 巨大翼狀交顯目 alata-giant × spectabilis
+### 巨大翼狀×顯目 alata-giant × spectabilis
 
 ***
 表現：下位-看起來是比較鮮豔的翼狀豬籠草，上位-拉長瓶身的翼狀豬籠草，綠瓶紅綠花唇  
@@ -544,7 +544,7 @@ isCJKLanguage: true
 ### 布凱 burkei
 
 ***
-來源：應該是華陽組培  
+來源：華陽園藝組培(艾莉兒代表)  
 表現：太小了不知道  
 敘述：中高地指標物種，養的活代表很多東西可以挑戰看看
 ***
@@ -555,4 +555,20 @@ isCJKLanguage: true
 來源：福田花市  
 表現：有看到花唇  
 敘述：也是從某個上游供應商做出來的不知道東東
+***
+
+### 美林 × 土魯斯瑪迪山 merrilliana × × trusmadiensis
+
+***
+來源：蝕友張大  
+表現：紅色瓶身，硬質感，帶有利齒的唇  
+敘述：這個難度超級破天荒挑戰...
+***
+
+### 寶特瓶豬籠草 truncata
+
+***
+來源：異草堂  
+表現：綠色瓶子帶有微量紅斑，花唇  
+敘述：這已經是第四次挑戰了欸...
 ***
